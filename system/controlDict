@@ -23,7 +23,7 @@ startTime       0;
 
 stopAt          endTime;
 
-endTime         6;
+endTime         60;
 
 deltaT          0.001;
 
@@ -52,5 +52,6 @@ maxAlphaCo      0.5;
 
 maxDeltaT       1;
 
+libs ( "libgroovyBC.so" ) ;
 
 // ************************************************************************* //
